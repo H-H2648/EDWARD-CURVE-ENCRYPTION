@@ -31,6 +31,5 @@ def encrypt(x, y):
     print ("C: {0}".format(C))
     return C
 
-encrypt(1,2)
 
 

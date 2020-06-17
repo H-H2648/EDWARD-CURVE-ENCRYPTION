@@ -39,14 +39,12 @@ def EdwardMultiply(x, e, d, N):
         bit = e % 2
         binary_e.append(bit)
         e = e//2
-    binary_e.reverse()
-    print(binary_e)
     SUMTOLIST = []
     for bit in binary_e:
         if bit == 1:
             SUMTOLIST.append(x)
-            x = EdwardDouble(x, d, N)
-    print(SUMTOLIST)
+        x = EdwardDouble(x, d, N)
     return(EdwardSumList(SUMTOLIST, d, N))
+
 
 
