@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20880b59-788f-4e03-b0fe-5e362482762a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EDWARD-CURVE-ENCRYPTION" />
+  </component>
+  <component name="ProjectId" id="1dQEMMmkrrqbXhIFfL2qvllFbJy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hhong\PycharmProjects\EDWARD_ENCRYPTION" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Encryption">
+    <configuration name="Decryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDWARD_ENCRYPTION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decryption.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EdwardRule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDWARD_ENCRYPTION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EdwardRule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Encryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDWARD_ENCRYPTION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encryption.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findCoPrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDWARD_ENCRYPTION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findCoPrime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findMultiplicativeInverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDWARD_ENCRYPTION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findMultiplicativeInverse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Encryption" />
+        <item itemvalue="Python.Decryption" />
+        <item itemvalue="Python.findMultiplicativeInverse" />
+        <item itemvalue="Python.EdwardRule" />
+        <item itemvalue="Python.findCoPrime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20880b59-788f-4e03-b0fe-5e362482762a" name="Default Changelist" comment="" />
+      <created>1592348867571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592348867571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1244" height="161" key="GridCell.Tab.0.bottom" timestamp="1592394982752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592394982752" />
+    <state width="1244" height="161" key="GridCell.Tab.0.center" timestamp="1592394982751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592394982751" />
+    <state width="1244" height="161" key="GridCell.Tab.0.left" timestamp="1592394982750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592394982750" />
+    <state width="1244" height="161" key="GridCell.Tab.0.right" timestamp="1592394982751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592394982751" />
+    <state width="1244" height="201" key="GridCell.Tab.1.bottom" timestamp="1592394407717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592394407717" />
+    <state width="1244" height="201" key="GridCell.Tab.1.center" timestamp="1592394407716">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1592394407716" />
+    <state width="1244" height="201" key="GridCell.Tab.1.left" timestamp="1592394407716">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1592394407716" />
+    <state width="1244" height="201" key="GridCell.Tab.1.right" timestamp="1592394407717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1244" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592394407717" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1592395388999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592395388999" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1592393678723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592393678723" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592355346750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592355346750" />
+  </component>
+</project>
